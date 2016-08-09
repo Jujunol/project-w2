@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\pc1\Documents\Visual Studio 2015\Projects\Assignment2-TeamProject\comp2007-s2016-team-proj\Models\BaseTrackerModel.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\pc1\Documents\Visual Studio 2015\Projects\project-w2\comp2007-s2016-team-proj\Models\BaseTrackerModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
